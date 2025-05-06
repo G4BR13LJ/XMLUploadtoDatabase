@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mauro\\Desktop\\School (unsorted)\\School 2023-2024\\winter2023(4)\\391\\cur_repo\\391_project_1\\Proj1 Part 2\\Proj1_P2_391\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BC7388-870F-46AA-89DD-67DC85C58880}|Proj1_P2_391\\Proj1_P2_391.csproj|c:\\users\\mauro\\desktop\\school (unsorted)\\school 2023-2024\\winter2023(4)\\391\\cur_repo\\391_project_1\\proj1 part 2\\proj1_p2_391\\proj1_p2_391\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BC7388-870F-46AA-89DD-67DC85C58880}|Proj1_P2_391\\Proj1_P2_391.csproj|solutionrelative:proj1_p2_391\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BC7388-870F-46AA-89DD-67DC85C58880}|Proj1_P2_391\\Proj1_P2_391.csproj|C:\\Users\\Mauro\\Desktop\\School (unsorted)\\School 2023-2024\\winter2023(4)\\391\\cur_repo\\391_project_1\\Proj1 Part 2\\Proj1_P2_391\\proj1_p2_391\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0BC7388-870F-46AA-89DD-67DC85C58880}|Proj1_P2_391\\Proj1_P2_391.csproj|solutionrelative:proj1_p2_391\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\School (unsorted)\\School 2023-2024\\winter2023(4)\\391\\cur_repo\\391_project_1\\Proj1 Part 2\\Proj1_P2_391\\Proj1_P2_391\\Form1.cs",
+              "RelativeDocumentMoniker": "Proj1_P2_391\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\School (unsorted)\\School 2023-2024\\winter2023(4)\\391\\cur_repo\\391_project_1\\Proj1 Part 2\\Proj1_P2_391\\Proj1_P2_391\\Form1.cs [Design]",
+              "RelativeToolTip": "Proj1_P2_391\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:04:41.165Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\School (unsorted)\\School 2023-2024\\winter2023(4)\\391\\cur_repo\\391_project_1\\Proj1 Part 2\\Proj1_P2_391\\Proj1_P2_391\\Form1.cs",
+              "RelativeDocumentMoniker": "Proj1_P2_391\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\School (unsorted)\\School 2023-2024\\winter2023(4)\\391\\cur_repo\\391_project_1\\Proj1 Part 2\\Proj1_P2_391\\Proj1_P2_391\\Form1.cs",
+              "RelativeToolTip": "Proj1_P2_391\\Form1.cs",
+              "ViewState": "AQIAAMMCAAAAAAAAAAAqwOoCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:02:54.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

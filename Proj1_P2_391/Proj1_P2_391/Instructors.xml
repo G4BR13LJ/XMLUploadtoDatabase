@@ -1,0 +1,3503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Instructors>
+  <Instructor>
+    <InstructorID>1</InstructorID>
+    <Instructor>Miss Dolores Bartell MD</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>2</InstructorID>
+    <Instructor>Dr. Dario Mann IV</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>3</InstructorID>
+    <Instructor>Bethel Prohaska</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>4</InstructorID>
+    <Instructor>Hudson Kertzmann</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>5</InstructorID>
+    <Instructor>Jovani Greenfelder</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>6</InstructorID>
+    <Instructor>Prof. Ruth Hettinger</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>7</InstructorID>
+    <Instructor>Prof. Patricia Ward IV</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>8</InstructorID>
+    <Instructor>Alfonzo Watsica DDS</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>9</InstructorID>
+    <Instructor>Arnoldo Russel V</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>10</InstructorID>
+    <Instructor>Marilyne Ondricka</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>11</InstructorID>
+    <Instructor>Therese Kutch</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>12</InstructorID>
+    <Instructor>Dr. Alana Johnston</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>13</InstructorID>
+    <Instructor>Scotty Doyle</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>14</InstructorID>
+    <Instructor>Mafalda Champlin PhD</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>15</InstructorID>
+    <Instructor>Prof. Wilson Waters</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>16</InstructorID>
+    <Instructor>Alta Lueilwitz</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>17</InstructorID>
+    <Instructor>Chet Corkery I</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>18</InstructorID>
+    <Instructor>Miss Dejah Waters II</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>19</InstructorID>
+    <Instructor>Reta Fisher</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>20</InstructorID>
+    <Instructor>Jeffery Huel</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>21</InstructorID>
+    <Instructor>Jaclyn Grady</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>22</InstructorID>
+    <Instructor>Madelynn Reichel PhD</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>23</InstructorID>
+    <Instructor>Brandon Labadie</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>24</InstructorID>
+    <Instructor>Reba Ferry DVM</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>25</InstructorID>
+    <Instructor>Joanie Larson</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>26</InstructorID>
+    <Instructor>Guillermo Jast</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>27</InstructorID>
+    <Instructor>Selmer O&apos;Reilly</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>28</InstructorID>
+    <Instructor>Karley Bailey</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>29</InstructorID>
+    <Instructor>Dr. Ethelyn Dickinson</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>30</InstructorID>
+    <Instructor>Robb Kunze</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>31</InstructorID>
+    <Instructor>Amalia Langosh</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>32</InstructorID>
+    <Instructor>Dr. Angel Corwin</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>33</InstructorID>
+    <Instructor>Cheyenne Muller</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>34</InstructorID>
+    <Instructor>Hailie Bradtke</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>35</InstructorID>
+    <Instructor>Edgar Ward</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>36</InstructorID>
+    <Instructor>Emmanuelle Boehm</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>37</InstructorID>
+    <Instructor>Prof. Ben Lubowitz III</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>38</InstructorID>
+    <Instructor>Prof. Theresia Mohr</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>39</InstructorID>
+    <Instructor>Felton Nikolaus</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>40</InstructorID>
+    <Instructor>Marilou Mraz</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>41</InstructorID>
+    <Instructor>Mr. Jaydon Boyer III</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>42</InstructorID>
+    <Instructor>Maritza Ondricka</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>43</InstructorID>
+    <Instructor>Casper Ebert</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>44</InstructorID>
+    <Instructor>Prof. Nathaniel Mosciski Sr.</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>45</InstructorID>
+    <Instructor>Miss Onie Armstrong DDS</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>46</InstructorID>
+    <Instructor>Maddison Boyle</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>47</InstructorID>
+    <Instructor>Mr. Stevie Weissnat I</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>48</InstructorID>
+    <Instructor>Jazmin Watsica Jr.</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>49</InstructorID>
+    <Instructor>Giuseppe Kuvalis</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>50</InstructorID>
+    <Instructor>Stacy Casper</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>51</InstructorID>
+    <Instructor>Hilma Thiel IV</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>52</InstructorID>
+    <Instructor>Rafaela Schiller</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>53</InstructorID>
+    <Instructor>Lyla Collier</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>54</InstructorID>
+    <Instructor>Prof. Georgiana Greenholt III</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>55</InstructorID>
+    <Instructor>Piper Huel DVM</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>56</InstructorID>
+    <Instructor>Prof. Elnora Rempel II</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>57</InstructorID>
+    <Instructor>Alexane Flatley</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>58</InstructorID>
+    <Instructor>Denis Kessler</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>59</InstructorID>
+    <Instructor>Dr. Wayne Donnelly</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>60</InstructorID>
+    <Instructor>Elton Kulas</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>61</InstructorID>
+    <Instructor>Kamron Reichert</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>62</InstructorID>
+    <Instructor>Gaston Cruickshank</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>63</InstructorID>
+    <Instructor>Rosemary Rowe</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>64</InstructorID>
+    <Instructor>Emory Denesik</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>65</InstructorID>
+    <Instructor>Prof. Kian Smith</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>66</InstructorID>
+    <Instructor>Blake Bartell</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>67</InstructorID>
+    <Instructor>Carmel Breitenberg</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>68</InstructorID>
+    <Instructor>Dock Kub</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>69</InstructorID>
+    <Instructor>Antonette Koelpin</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>70</InstructorID>
+    <Instructor>Elizabeth Kuphal</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>71</InstructorID>
+    <Instructor>Dr. Mario Corkery</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>72</InstructorID>
+    <Instructor>Lawson Wolff Sr.</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>73</InstructorID>
+    <Instructor>Kelsie Hagenes</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>74</InstructorID>
+    <Instructor>Judy Schumm</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>75</InstructorID>
+    <Instructor>Dr. Kyra Willms PhD</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>76</InstructorID>
+    <Instructor>Nia Wolf IV</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>77</InstructorID>
+    <Instructor>Prof. Carissa Gibson III</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>78</InstructorID>
+    <Instructor>Vergie Rice</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>79</InstructorID>
+    <Instructor>Madalyn Treutel</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>80</InstructorID>
+    <Instructor>Dr. Marco Nikolaus</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>81</InstructorID>
+    <Instructor>Adeline Gleason</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>82</InstructorID>
+    <Instructor>Mrs. Grace Walter</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>83</InstructorID>
+    <Instructor>Veda Boyer</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>84</InstructorID>
+    <Instructor>Mohamed Mann</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>85</InstructorID>
+    <Instructor>Laron Moore</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>86</InstructorID>
+    <Instructor>Dr. Haskell Lynch</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>87</InstructorID>
+    <Instructor>Dr. Pink Wiza</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>88</InstructorID>
+    <Instructor>Jolie Hills</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>89</InstructorID>
+    <Instructor>Mrs. Krystina Schmitt</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>90</InstructorID>
+    <Instructor>Deja Vandervort</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>91</InstructorID>
+    <Instructor>Rachelle Weimann II</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>92</InstructorID>
+    <Instructor>Dean Nader</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>93</InstructorID>
+    <Instructor>Justen Kihn</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>94</InstructorID>
+    <Instructor>Jonathan Hills</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>95</InstructorID>
+    <Instructor>Carlee Howell</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>96</InstructorID>
+    <Instructor>Candelario Kunze V</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>97</InstructorID>
+    <Instructor>Elvis Monahan</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>98</InstructorID>
+    <Instructor>Stanton Schneider</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>99</InstructorID>
+    <Instructor>Esperanza Daniel</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>100</InstructorID>
+    <Instructor>Ellsworth Kohler</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>101</InstructorID>
+    <Instructor>Jameson Pfannerstill</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>102</InstructorID>
+    <Instructor>Sarah Prosacco</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>103</InstructorID>
+    <Instructor>Kenneth Daniel</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>104</InstructorID>
+    <Instructor>Juana Greenfelder</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>105</InstructorID>
+    <Instructor>Cloyd Berge</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>106</InstructorID>
+    <Instructor>Angelo Waters</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>107</InstructorID>
+    <Instructor>Houston Hahn DVM</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>108</InstructorID>
+    <Instructor>Clara Bergnaum II</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>109</InstructorID>
+    <Instructor>Dominic Graham DVM</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>110</InstructorID>
+    <Instructor>Laurie Torp V</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>111</InstructorID>
+    <Instructor>Brandy Lebsack IV</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>112</InstructorID>
+    <Instructor>Eloisa McClure</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>113</InstructorID>
+    <Instructor>Jessica Tromp</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>114</InstructorID>
+    <Instructor>Jessica Becker PhD</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>115</InstructorID>
+    <Instructor>Neoma Hartmann Sr.</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>116</InstructorID>
+    <Instructor>Mason Quitzon</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>117</InstructorID>
+    <Instructor>Concepcion Connelly</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>118</InstructorID>
+    <Instructor>Elmira Dickinson</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>119</InstructorID>
+    <Instructor>Marquis Brown</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>120</InstructorID>
+    <Instructor>Kaleigh Schowalter V</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>121</InstructorID>
+    <Instructor>Sam Goldner</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>122</InstructorID>
+    <Instructor>Lukas Daugherty</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>123</InstructorID>
+    <Instructor>Connor Spencer</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>124</InstructorID>
+    <Instructor>Margot Mitchell</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>125</InstructorID>
+    <Instructor>Nicolette Willms</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>126</InstructorID>
+    <Instructor>Estrella Zieme</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>127</InstructorID>
+    <Instructor>Cecilia Hamill</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>128</InstructorID>
+    <Instructor>Lisandro Lubowitz V</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>129</InstructorID>
+    <Instructor>Antwan Okuneva</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>130</InstructorID>
+    <Instructor>Prof. Kole Hackett</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>131</InstructorID>
+    <Instructor>Delphine West</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>132</InstructorID>
+    <Instructor>Celestine Rowe</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>133</InstructorID>
+    <Instructor>Federico Hane</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>134</InstructorID>
+    <Instructor>Keira Altenwerth</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>135</InstructorID>
+    <Instructor>Miss Laurie Satterfield</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>136</InstructorID>
+    <Instructor>Dr. Sylvester Lang</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>137</InstructorID>
+    <Instructor>Ms. Grace Pouros III</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>138</InstructorID>
+    <Instructor>Dr. Ezra Kirlin II</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>139</InstructorID>
+    <Instructor>Esperanza Braun</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>140</InstructorID>
+    <Instructor>Avis Herman</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>141</InstructorID>
+    <Instructor>Miss Jermaine Konopelski</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>142</InstructorID>
+    <Instructor>Ben Simonis</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>143</InstructorID>
+    <Instructor>Bernadette Romaguera</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>144</InstructorID>
+    <Instructor>Miss Thora Beahan</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>145</InstructorID>
+    <Instructor>Prof. Wanda Ortiz</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>146</InstructorID>
+    <Instructor>Gerson Schiller</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>147</InstructorID>
+    <Instructor>Kenny Torphy Jr.</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>148</InstructorID>
+    <Instructor>Cale Ullrich</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>149</InstructorID>
+    <Instructor>Joana Okuneva III</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>150</InstructorID>
+    <Instructor>Prof. Adolphus Welch III</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>151</InstructorID>
+    <Instructor>Raina Tromp III</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>152</InstructorID>
+    <Instructor>Mr. Buster Nienow</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>153</InstructorID>
+    <Instructor>Dr. Francisco Boyer</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>154</InstructorID>
+    <Instructor>Heaven Berge</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>155</InstructorID>
+    <Instructor>Madelyn Ferry</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>156</InstructorID>
+    <Instructor>Ms. Lea Goldner IV</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>157</InstructorID>
+    <Instructor>Carmela Dibbert</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>158</InstructorID>
+    <Instructor>Vance Paucek</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>159</InstructorID>
+    <Instructor>Jaqueline Rodriguez II</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>160</InstructorID>
+    <Instructor>Arvid Gerhold</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>161</InstructorID>
+    <Instructor>Herminia Jakubowski V</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>162</InstructorID>
+    <Instructor>Cade Kerluke</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>163</InstructorID>
+    <Instructor>Stephania Emmerich</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>164</InstructorID>
+    <Instructor>Esmeralda Rath</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>165</InstructorID>
+    <Instructor>Agustina Lakin</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>166</InstructorID>
+    <Instructor>Dr. Elmer Yundt DVM</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>167</InstructorID>
+    <Instructor>Dr. Darwin Christiansen Jr.</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>168</InstructorID>
+    <Instructor>Prof. Francisco Leuschke V</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>169</InstructorID>
+    <Instructor>Blair Douglas</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>170</InstructorID>
+    <Instructor>Kimberly Deckow</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>171</InstructorID>
+    <Instructor>Ms. Fanny Sipes</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>172</InstructorID>
+    <Instructor>Elvera Metz II</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>173</InstructorID>
+    <Instructor>Isai Grady</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>174</InstructorID>
+    <Instructor>Marianne Berge</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>175</InstructorID>
+    <Instructor>Shad Kshlerin II</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>176</InstructorID>
+    <Instructor>Mr. Rupert Ryan PhD</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>177</InstructorID>
+    <Instructor>Ayana Emard</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>178</InstructorID>
+    <Instructor>Frederik Predovic</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>179</InstructorID>
+    <Instructor>Enrico Thompson</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>180</InstructorID>
+    <Instructor>Miss Katelynn Treutel II</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>181</InstructorID>
+    <Instructor>Miss Abigayle McDermott</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>182</InstructorID>
+    <Instructor>Helen Mosciski PhD</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>183</InstructorID>
+    <Instructor>Miss Marcia Tremblay I</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>184</InstructorID>
+    <Instructor>Teagan Gutkowski I</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>185</InstructorID>
+    <Instructor>Walton Spinka</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>186</InstructorID>
+    <Instructor>Scotty Dach</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>187</InstructorID>
+    <Instructor>Al Bogisich</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>188</InstructorID>
+    <Instructor>Ms. Prudence Halvorson</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>189</InstructorID>
+    <Instructor>Roberta Heathcote</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>190</InstructorID>
+    <Instructor>Bernadine Fritsch</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>191</InstructorID>
+    <Instructor>Jeff Luettgen</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>192</InstructorID>
+    <Instructor>Irma Ebert</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>193</InstructorID>
+    <Instructor>Mrs. Lonie Mertz PhD</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>194</InstructorID>
+    <Instructor>Josefa Morissette MD</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>195</InstructorID>
+    <Instructor>Katrina Dicki</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>196</InstructorID>
+    <Instructor>Afton Bins</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>197</InstructorID>
+    <Instructor>Dallin Sawayn</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>198</InstructorID>
+    <Instructor>Leland Botsford</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>199</InstructorID>
+    <Instructor>Elna Nienow</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>200</InstructorID>
+    <Instructor>Grady Wilderman</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>201</InstructorID>
+    <Instructor>Dr. Curtis Wilkinson DDS</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>202</InstructorID>
+    <Instructor>Annabell Stiedemann</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>203</InstructorID>
+    <Instructor>Aric King</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>204</InstructorID>
+    <Instructor>Mateo Watsica</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>205</InstructorID>
+    <Instructor>Prof. Max Luettgen</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>206</InstructorID>
+    <Instructor>Ernie Muller</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>207</InstructorID>
+    <Instructor>Dr. Ashlynn Langosh III</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>208</InstructorID>
+    <Instructor>Maurine Carroll</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>209</InstructorID>
+    <Instructor>Janet Welch</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>210</InstructorID>
+    <Instructor>Elouise Gorczany III</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>211</InstructorID>
+    <Instructor>Creola Gorczany</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>212</InstructorID>
+    <Instructor>Magnolia Senger</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>213</InstructorID>
+    <Instructor>Prof. Harmon Fritsch</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>214</InstructorID>
+    <Instructor>Mr. Emil Gorczany</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>215</InstructorID>
+    <Instructor>Erick Hoeger</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>216</InstructorID>
+    <Instructor>Stephen Aufderhar</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>217</InstructorID>
+    <Instructor>Lawson Green</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>218</InstructorID>
+    <Instructor>Ms. Della D&apos;Amore</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>219</InstructorID>
+    <Instructor>Paula Keebler</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>220</InstructorID>
+    <Instructor>German Moen Jr.</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>221</InstructorID>
+    <Instructor>Dr. Betsy Wunsch IV</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>222</InstructorID>
+    <Instructor>Ernest Corwin</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>223</InstructorID>
+    <Instructor>Kristopher Hyatt</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>224</InstructorID>
+    <Instructor>Tressie Hane</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>225</InstructorID>
+    <Instructor>Marjorie Satterfield III</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>226</InstructorID>
+    <Instructor>Rubie Gleason</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>227</InstructorID>
+    <Instructor>Dr. Oral Jerde DVM</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>228</InstructorID>
+    <Instructor>Dr. Timmy Kuhn Sr.</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>229</InstructorID>
+    <Instructor>Prof. Wellington Roberts V</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>230</InstructorID>
+    <Instructor>Mr. Olin Renner</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>231</InstructorID>
+    <Instructor>Prof. Dustin Beer Sr.</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>232</InstructorID>
+    <Instructor>Ms. Lenna Grady</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>233</InstructorID>
+    <Instructor>Winifred Johnson PhD</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>234</InstructorID>
+    <Instructor>Foster Bashirian</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>235</InstructorID>
+    <Instructor>Thea Runte</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>236</InstructorID>
+    <Instructor>Rafaela Bailey</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>237</InstructorID>
+    <Instructor>Cullen Romaguera</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>238</InstructorID>
+    <Instructor>Murray Hartmann</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>239</InstructorID>
+    <Instructor>Pearlie Cummerata</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>240</InstructorID>
+    <Instructor>Antonette Buckridge</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>241</InstructorID>
+    <Instructor>Mrs. Karianne Kutch Jr.</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>242</InstructorID>
+    <Instructor>Mariane Wiza</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>243</InstructorID>
+    <Instructor>Buck Stiedemann</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>244</InstructorID>
+    <Instructor>Dr. Christophe Stracke MD</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>245</InstructorID>
+    <Instructor>Dr. Daryl Jacobs Jr.</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>246</InstructorID>
+    <Instructor>Joyce Huels</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>247</InstructorID>
+    <Instructor>Sibyl Sporer</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>248</InstructorID>
+    <Instructor>Prof. Jovanny White</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>249</InstructorID>
+    <Instructor>Gonzalo Heaney I</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>250</InstructorID>
+    <Instructor>Prof. Maymie Lind PhD</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>251</InstructorID>
+    <Instructor>Queen Rempel Jr.</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>252</InstructorID>
+    <Instructor>Jake Dare</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>253</InstructorID>
+    <Instructor>Bessie Moen</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>254</InstructorID>
+    <Instructor>Olaf Herzog</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>255</InstructorID>
+    <Instructor>Prof. Alden Dibbert</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>256</InstructorID>
+    <Instructor>Gregorio Champlin</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>257</InstructorID>
+    <Instructor>Rozella Parker</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>258</InstructorID>
+    <Instructor>Karson Auer</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>259</InstructorID>
+    <Instructor>Omari Sawayn PhD</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>260</InstructorID>
+    <Instructor>Antonina Reichel</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>261</InstructorID>
+    <Instructor>Miss Elda Cronin IV</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>262</InstructorID>
+    <Instructor>Prof. Delphine Breitenberg</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>263</InstructorID>
+    <Instructor>Faustino Veum</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>264</InstructorID>
+    <Instructor>Carmen Kris</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>265</InstructorID>
+    <Instructor>Winston Bruen</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>266</InstructorID>
+    <Instructor>Dr. Ryan Schuppe</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>267</InstructorID>
+    <Instructor>Valentine King II</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>268</InstructorID>
+    <Instructor>Lyla Cormier</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>269</InstructorID>
+    <Instructor>Jovani Wilderman</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>270</InstructorID>
+    <Instructor>Nora Reinger Sr.</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>271</InstructorID>
+    <Instructor>Catharine Hackett</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>272</InstructorID>
+    <Instructor>Alvena O&apos;Connell</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>273</InstructorID>
+    <Instructor>Dr. Kiera Crist</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>274</InstructorID>
+    <Instructor>Estefania Reynolds DDS</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>275</InstructorID>
+    <Instructor>Mr. Arely Durgan I</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>276</InstructorID>
+    <Instructor>Shemar Mayer</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>277</InstructorID>
+    <Instructor>Gust Boehm V</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>278</InstructorID>
+    <Instructor>Mrs. Octavia Becker DDS</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>279</InstructorID>
+    <Instructor>Mrs. Madaline Tremblay</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>280</InstructorID>
+    <Instructor>Chelsea Rowe DVM</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>281</InstructorID>
+    <Instructor>Shayna Walsh</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>282</InstructorID>
+    <Instructor>Natasha Schultz Sr.</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>283</InstructorID>
+    <Instructor>Eulalia Kuhn</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>284</InstructorID>
+    <Instructor>Austin Abernathy</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>285</InstructorID>
+    <Instructor>Prof. Quinn Zboncak PhD</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>286</InstructorID>
+    <Instructor>Quentin Davis</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>287</InstructorID>
+    <Instructor>Rahsaan Cummerata</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>288</InstructorID>
+    <Instructor>Brigitte Larkin</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>289</InstructorID>
+    <Instructor>Dr. Sammie Wunsch DDS</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>290</InstructorID>
+    <Instructor>Kamryn Hackett</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>291</InstructorID>
+    <Instructor>Julius Rice</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>292</InstructorID>
+    <Instructor>Keon Parker DDS</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>293</InstructorID>
+    <Instructor>Alvera Tillman</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>294</InstructorID>
+    <Instructor>Tess Cassin</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>295</InstructorID>
+    <Instructor>Breanne Legros</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>296</InstructorID>
+    <Instructor>Jeromy Crist</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>297</InstructorID>
+    <Instructor>Johathan Simonis</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>298</InstructorID>
+    <Instructor>Rahsaan Koelpin DDS</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>299</InstructorID>
+    <Instructor>Lucas Cartwright</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>300</InstructorID>
+    <Instructor>Olin Bergnaum</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>301</InstructorID>
+    <Instructor>Winifred Ward</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>302</InstructorID>
+    <Instructor>Kyra Konopelski</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>303</InstructorID>
+    <Instructor>Jacquelyn O&apos;Kon</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>304</InstructorID>
+    <Instructor>Josue Haag</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>305</InstructorID>
+    <Instructor>Dr. Enos Turner</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>306</InstructorID>
+    <Instructor>Jordon Pollich</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>307</InstructorID>
+    <Instructor>Dortha Schumm</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>308</InstructorID>
+    <Instructor>Dr. Delfina Barton</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>309</InstructorID>
+    <Instructor>Nyah Haag</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>310</InstructorID>
+    <Instructor>Isaac Mueller</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>311</InstructorID>
+    <Instructor>Curtis Jacobson</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>312</InstructorID>
+    <Instructor>Dr. Norval Thompson V</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>313</InstructorID>
+    <Instructor>Dr. Kameron Gutkowski</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>314</InstructorID>
+    <Instructor>Lowell Rogahn III</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>315</InstructorID>
+    <Instructor>Arnaldo Nikolaus</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>316</InstructorID>
+    <Instructor>Riley Robel</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>317</InstructorID>
+    <Instructor>Arlo Shields Sr.</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>318</InstructorID>
+    <Instructor>Elmo Waelchi</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>319</InstructorID>
+    <Instructor>Murray Hintz</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>320</InstructorID>
+    <Instructor>Isabelle Smith</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>321</InstructorID>
+    <Instructor>Braulio Hagenes</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>322</InstructorID>
+    <Instructor>Shanel Renner</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>323</InstructorID>
+    <Instructor>Katarina Lynch</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>324</InstructorID>
+    <Instructor>Ernestina Wintheiser</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>325</InstructorID>
+    <Instructor>Savion Cartwright III</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>326</InstructorID>
+    <Instructor>Kassandra Bogisich</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>327</InstructorID>
+    <Instructor>Miss Virginie Gottlieb DVM</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>328</InstructorID>
+    <Instructor>Hallie Collier</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>329</InstructorID>
+    <Instructor>Selmer Cronin</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>330</InstructorID>
+    <Instructor>Myrl Roberts</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>331</InstructorID>
+    <Instructor>Geovanni Jenkins</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>332</InstructorID>
+    <Instructor>Dameon Mayert</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>333</InstructorID>
+    <Instructor>Nina Stark</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>334</InstructorID>
+    <Instructor>Jalon Trantow IV</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>335</InstructorID>
+    <Instructor>Janick Batz PhD</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>336</InstructorID>
+    <Instructor>Mr. Afton Trantow</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>337</InstructorID>
+    <Instructor>Prof. Rylan Bogisich</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>338</InstructorID>
+    <Instructor>Raul Leannon</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>339</InstructorID>
+    <Instructor>Dr. Victor Turcotte</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>340</InstructorID>
+    <Instructor>Rodrick Rohan</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>341</InstructorID>
+    <Instructor>Paolo Lebsack</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>342</InstructorID>
+    <Instructor>Rozella Wolf</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>343</InstructorID>
+    <Instructor>Jerrod Cremin II</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>344</InstructorID>
+    <Instructor>Dr. Ladarius Pollich</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>345</InstructorID>
+    <Instructor>Troy Kilback</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>346</InstructorID>
+    <Instructor>Bryon Cronin</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>347</InstructorID>
+    <Instructor>Pascale Parker</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>348</InstructorID>
+    <Instructor>Anissa Blick</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>349</InstructorID>
+    <Instructor>Ernestine Klein</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>350</InstructorID>
+    <Instructor>Ms. Arianna Skiles I</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>351</InstructorID>
+    <Instructor>Jordon Lebsack MD</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>352</InstructorID>
+    <Instructor>Mr. Winston Hoppe I</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>353</InstructorID>
+    <Instructor>Ms. Josie Pouros</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>354</InstructorID>
+    <Instructor>Mr. Emmitt Feil Jr.</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>355</InstructorID>
+    <Instructor>Yolanda Mueller</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>356</InstructorID>
+    <Instructor>Americo Swift</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>357</InstructorID>
+    <Instructor>Alek Hagenes</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>358</InstructorID>
+    <Instructor>Elda Halvorson</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>359</InstructorID>
+    <Instructor>Dr. Jaclyn Spencer V</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>360</InstructorID>
+    <Instructor>Miss Jammie Prohaska III</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>361</InstructorID>
+    <Instructor>Ms. Calista Reynolds</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>362</InstructorID>
+    <Instructor>Laron Trantow IV</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>363</InstructorID>
+    <Instructor>Heloise Hills</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>364</InstructorID>
+    <Instructor>Mr. Bryon Wuckert</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>365</InstructorID>
+    <Instructor>Norris Jaskolski</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>366</InstructorID>
+    <Instructor>Miss Sienna Johnston Jr.</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>367</InstructorID>
+    <Instructor>Muhammad Schaefer</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>368</InstructorID>
+    <Instructor>Nathaniel Beer V</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>369</InstructorID>
+    <Instructor>Haylie Hessel PhD</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>370</InstructorID>
+    <Instructor>Janis Schuppe</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>371</InstructorID>
+    <Instructor>Carolyne Feil</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>372</InstructorID>
+    <Instructor>Edd Feil</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>373</InstructorID>
+    <Instructor>Verna Reinger PhD</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>374</InstructorID>
+    <Instructor>Zachary Medhurst DDS</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>375</InstructorID>
+    <Instructor>Lilian Wilkinson</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>376</InstructorID>
+    <Instructor>Miss Ruby Stanton Sr.</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>377</InstructorID>
+    <Instructor>Caterina Schroeder</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>378</InstructorID>
+    <Instructor>Imelda Borer</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>379</InstructorID>
+    <Instructor>Prof. Julianne Barrows</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>380</InstructorID>
+    <Instructor>Friedrich Upton III</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>381</InstructorID>
+    <Instructor>Katlynn Davis V</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>382</InstructorID>
+    <Instructor>Serenity Reichert</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>383</InstructorID>
+    <Instructor>Laura Mills IV</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>384</InstructorID>
+    <Instructor>Mr. Rhett Lesch</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>385</InstructorID>
+    <Instructor>Rosella Wintheiser</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>386</InstructorID>
+    <Instructor>Miss Abby Kohler</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>387</InstructorID>
+    <Instructor>Jordon Pacocha DVM</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>388</InstructorID>
+    <Instructor>Karianne Spinka</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>389</InstructorID>
+    <Instructor>Mr. Eriberto Volkman I</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>390</InstructorID>
+    <Instructor>Grant Schinner</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>391</InstructorID>
+    <Instructor>Mariane Carroll</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>392</InstructorID>
+    <Instructor>Dandre Rohan</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>393</InstructorID>
+    <Instructor>Shanie Labadie PhD</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>394</InstructorID>
+    <Instructor>Annamarie Ritchie</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>395</InstructorID>
+    <Instructor>Brad Schulist</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>396</InstructorID>
+    <Instructor>Prof. Corine Dare</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>397</InstructorID>
+    <Instructor>Abigale Douglas</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>398</InstructorID>
+    <Instructor>Makayla Pfeffer IV</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>399</InstructorID>
+    <Instructor>Mr. Jairo Langosh</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>400</InstructorID>
+    <Instructor>Gregoria Heaney</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>401</InstructorID>
+    <Instructor>Destiney Conroy</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>402</InstructorID>
+    <Instructor>Taya Daniel</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>403</InstructorID>
+    <Instructor>Joshua Green</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>404</InstructorID>
+    <Instructor>Hollis Halvorson</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>405</InstructorID>
+    <Instructor>Gage Herzog</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>406</InstructorID>
+    <Instructor>Lily Stracke</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>407</InstructorID>
+    <Instructor>Sigrid Hintz</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>408</InstructorID>
+    <Instructor>Ms. Jeanie Klein DVM</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>409</InstructorID>
+    <Instructor>Mike Boehm</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>410</InstructorID>
+    <Instructor>Leif Mante</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>411</InstructorID>
+    <Instructor>Prof. Rick Hyatt</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>412</InstructorID>
+    <Instructor>Aletha Ullrich</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>413</InstructorID>
+    <Instructor>Remington Kovacek</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>414</InstructorID>
+    <Instructor>Bo Grimes IV</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>415</InstructorID>
+    <Instructor>Ari Gerlach</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>416</InstructorID>
+    <Instructor>Maximilian Spencer</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>417</InstructorID>
+    <Instructor>Camren Cremin II</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>418</InstructorID>
+    <Instructor>Tiara Leffler</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>419</InstructorID>
+    <Instructor>Mrs. Josianne Heller</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>420</InstructorID>
+    <Instructor>Dr. Joy Leannon III</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>421</InstructorID>
+    <Instructor>Kamryn Feeney</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>422</InstructorID>
+    <Instructor>Mrs. Dessie Herzog DDS</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>423</InstructorID>
+    <Instructor>Octavia Hegmann</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>424</InstructorID>
+    <Instructor>Mack Donnelly</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>425</InstructorID>
+    <Instructor>Jeffrey Jacobson</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>426</InstructorID>
+    <Instructor>Ila Lockman</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>427</InstructorID>
+    <Instructor>Helmer Borer</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>428</InstructorID>
+    <Instructor>Mohamed O&apos;Conner</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>429</InstructorID>
+    <Instructor>Carol Schamberger</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>430</InstructorID>
+    <Instructor>Idell Cormier</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>431</InstructorID>
+    <Instructor>Mr. Hipolito Jacobs</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>432</InstructorID>
+    <Instructor>Adelia Borer DVM</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>433</InstructorID>
+    <Instructor>Jamaal Skiles</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>434</InstructorID>
+    <Instructor>Miss Ariane Waelchi</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>435</InstructorID>
+    <Instructor>Jedediah Gislason</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>436</InstructorID>
+    <Instructor>Prof. Catherine Moore</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>437</InstructorID>
+    <Instructor>Vesta Watsica</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>438</InstructorID>
+    <Instructor>Miss Tressa Weissnat</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>439</InstructorID>
+    <Instructor>Leopold Ziemann</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>440</InstructorID>
+    <Instructor>Cleta Hilpert</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>441</InstructorID>
+    <Instructor>Pierce Ferry</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>442</InstructorID>
+    <Instructor>Emery Pfeffer</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>443</InstructorID>
+    <Instructor>Zackery Kirlin</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>444</InstructorID>
+    <Instructor>Ayden Volkman</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>445</InstructorID>
+    <Instructor>Efrain Borer Sr.</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>446</InstructorID>
+    <Instructor>Prof. Xzavier Larkin</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>447</InstructorID>
+    <Instructor>Beth Kulas</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>448</InstructorID>
+    <Instructor>Johnnie Durgan</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>449</InstructorID>
+    <Instructor>Ms. Alysha Feest</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>450</InstructorID>
+    <Instructor>Dr. Roxane Dooley Jr.</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>451</InstructorID>
+    <Instructor>Deondre Stark</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>452</InstructorID>
+    <Instructor>Frederik Heidenreich</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>453</InstructorID>
+    <Instructor>Dr. Eveline O&apos;Conner IV</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>454</InstructorID>
+    <Instructor>Dr. Darryl Block</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>455</InstructorID>
+    <Instructor>Dasia Lebsack</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>456</InstructorID>
+    <Instructor>Clemens Jacobson Sr.</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>457</InstructorID>
+    <Instructor>Lukas Pagac</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>458</InstructorID>
+    <Instructor>Alvena Roob</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>459</InstructorID>
+    <Instructor>Benedict Maggio DVM</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>460</InstructorID>
+    <Instructor>Mr. Tyrique Bechtelar Jr.</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>461</InstructorID>
+    <Instructor>Kenton Kulas</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>462</InstructorID>
+    <Instructor>Jackie Ullrich II</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>463</InstructorID>
+    <Instructor>Miss Adela Treutel</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>464</InstructorID>
+    <Instructor>Mrs. Betty Heller II</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>465</InstructorID>
+    <Instructor>Carmella Conroy</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>466</InstructorID>
+    <Instructor>Ms. Hillary Gutkowski</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>467</InstructorID>
+    <Instructor>Shawna Dickinson</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>468</InstructorID>
+    <Instructor>Brandt Kuhn</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>469</InstructorID>
+    <Instructor>Loy Graham</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>470</InstructorID>
+    <Instructor>Dillan Fritsch</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>471</InstructorID>
+    <Instructor>Lina Herzog</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>472</InstructorID>
+    <Instructor>Santina Kovacek MD</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>473</InstructorID>
+    <Instructor>Felipa Effertz</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>474</InstructorID>
+    <Instructor>Joanny Pacocha</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>475</InstructorID>
+    <Instructor>Carley Hermann</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>476</InstructorID>
+    <Instructor>Prof. Oral Hand DVM</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>477</InstructorID>
+    <Instructor>Dr. Madalyn Sporer II</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>478</InstructorID>
+    <Instructor>Ms. Gracie Heidenreich</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>479</InstructorID>
+    <Instructor>Janelle Mayert</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>480</InstructorID>
+    <Instructor>Dr. Kay Daniel V</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>481</InstructorID>
+    <Instructor>Ward Schroeder</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>482</InstructorID>
+    <Instructor>Felix Crona Jr.</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>483</InstructorID>
+    <Instructor>Jamey Kuhic</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>484</InstructorID>
+    <Instructor>Dr. Leonel Thompson DDS</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>485</InstructorID>
+    <Instructor>Dr. Dan Hand Jr.</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>486</InstructorID>
+    <Instructor>Jasmin Quitzon</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>487</InstructorID>
+    <Instructor>Miss Anika Leuschke DVM</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>488</InstructorID>
+    <Instructor>Dr. Clotilde Nitzsche Jr.</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>489</InstructorID>
+    <Instructor>Eldridge Tremblay</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>490</InstructorID>
+    <Instructor>Aubrey Marvin</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>491</InstructorID>
+    <Instructor>Myriam Reynolds V</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>492</InstructorID>
+    <Instructor>Miss Jennie Jacobson</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>493</InstructorID>
+    <Instructor>Kian Rutherford IV</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Calgary&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>494</InstructorID>
+    <Instructor>Mr. Zane Morar</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>495</InstructorID>
+    <Instructor>Dr. Karlee Koch Jr.</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;associate&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>496</InstructorID>
+    <Instructor>Demetrius Reynolds</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>497</InstructorID>
+    <Instructor>Anya Dickinson</Instructor>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>498</InstructorID>
+    <Instructor>Junior Zieme Sr.</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;tenure&apos;</rank>
+    <University>&apos;MacEwan University&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>499</InstructorID>
+    <Instructor>Vincent Kihn II</Instructor>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;University of Alberta&apos;</University>
+  </Instructor>
+  <Instructor>
+    <InstructorID>500</InstructorID>
+    <Instructor>Ms. Ariane Langosh DDS</Instructor>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <rank>&apos;sessional&apos;</rank>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Instructor>
+</Instructors>

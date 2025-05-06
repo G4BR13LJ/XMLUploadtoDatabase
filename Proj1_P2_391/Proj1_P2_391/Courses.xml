@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Courses>
+  <Course>
+    <CourseID>0</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>1</CourseID>
+    <Department> &apos;Math&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>2</CourseID>
+    <Department> &apos;Math&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>3</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>4</CourseID>
+    <Department> &apos;Math&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>5</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>6</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>7</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>8</CourseID>
+    <Department>&apos;Statstics&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>9</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>10</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>11</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>12</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>13</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>14</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>15</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>16</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>17</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>18</CourseID>
+    <Department>&apos;Statstics&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>19</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>20</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>21</CourseID>
+    <Department>&apos;Computer Science&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>22</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>23</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>24</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>25</CourseID>
+    <Department>&apos;Computer Science&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>26</CourseID>
+    <Department>&apos;Statstics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>27</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>28</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>29</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>30</CourseID>
+    <Department> &apos;Math&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>31</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>32</CourseID>
+    <Department>&apos;Computer Science&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>33</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>34</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>35</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>36</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>37</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>38</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>39</CourseID>
+    <Department> &apos;Math&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>40</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>41</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>42</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>43</CourseID>
+    <Department> &apos;Math&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>44</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>45</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>46</CourseID>
+    <Department> &apos;Math&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>47</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>48</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>49</CourseID>
+    <Department>&apos;Computer Science&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>50</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>51</CourseID>
+    <Department> &apos;Math&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>52</CourseID>
+    <Department>&apos;Statstics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>53</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>54</CourseID>
+    <Department> &apos;Math&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>55</CourseID>
+    <Department>&apos;Statstics&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>56</CourseID>
+    <Department>&apos;Computer Science&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>57</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>58</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>59</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>60</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>61</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>62</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>63</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>64</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>65</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>66</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>67</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>68</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>69</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>70</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>71</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>72</CourseID>
+    <Department> &apos;Math&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>73</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>74</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>75</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>76</CourseID>
+    <Department> &apos;Math&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>77</CourseID>
+    <Department>&apos;Computer Science&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>78</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>79</CourseID>
+    <Department>&apos;Statstics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>80</CourseID>
+    <Department>&apos;Statstics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>81</CourseID>
+    <Department>&apos;Computer Science&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>82</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>83</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>84</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>85</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>86</CourseID>
+    <Department>&apos;Statstics&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>87</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>88</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>89</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>90</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>91</CourseID>
+    <Department> &apos;Math&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>92</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>93</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>94</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>95</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>96</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>97</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>98</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>99</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>100</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>101</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>102</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>103</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>104</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>105</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>106</CourseID>
+    <Department>&apos;Statstics&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>107</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>108</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>109</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>110</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>111</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>112</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>113</CourseID>
+    <Department> &apos;Math&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>114</CourseID>
+    <Department>&apos;Computer Science&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>115</CourseID>
+    <Department>&apos;Computer Science&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>116</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>117</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>118</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>119</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>120</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>121</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>122</CourseID>
+    <Department>&apos;Statstics&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>123</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>124</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>125</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>126</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>127</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>128</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>129</CourseID>
+    <Department> &apos;Math&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>130</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>131</CourseID>
+    <Department>&apos;Computer Science&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>132</CourseID>
+    <Department>&apos;Statstics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>133</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>134</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>135</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>136</CourseID>
+    <Department>&apos;Statstics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>137</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>138</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>139</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>140</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>141</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>142</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>143</CourseID>
+    <Department>&apos;Statstics&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>144</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>145</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>146</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>147</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>148</CourseID>
+    <Department>&apos;Computer Science&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>149</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>150</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>151</CourseID>
+    <Department>&apos;Computer Science&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>152</CourseID>
+    <Department> &apos;Math&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>153</CourseID>
+    <Department>&apos;Computer Science&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>154</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>155</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>156</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>157</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>158</CourseID>
+    <Department>&apos;Statstics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>159</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>160</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>161</CourseID>
+    <Department> &apos;Math&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>162</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>163</CourseID>
+    <Department> &apos;Math&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>164</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>165</CourseID>
+    <Department> &apos;Biology&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>166</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>167</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>168</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>169</CourseID>
+    <Department>&apos;Statstics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>170</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>171</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>172</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>173</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>174</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>175</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>176</CourseID>
+    <Department>&apos;Statstics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>177</CourseID>
+    <Department> &apos;Math&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>178</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>179</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>180</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>181</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>182</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>183</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>184</CourseID>
+    <Department>&apos;Statstics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>185</CourseID>
+    <Department> &apos;Math&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>186</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>187</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>188</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>189</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>190</CourseID>
+    <Department>&apos;Physics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;University of Lethbridge&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>191</CourseID>
+    <Department>&apos;Economics&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>192</CourseID>
+    <Department>&apos;English&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Alberta&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>193</CourseID>
+    <Department>&apos;Sociology&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>194</CourseID>
+    <Department>&apos;Computer Science&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>195</CourseID>
+    <Department>&apos;Computer Science&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>196</CourseID>
+    <Department>&apos;Computer Science&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>197</CourseID>
+    <Department>&apos;Computer Science&apos;</Department>
+    <Faculty>&apos;Arts&apos;</Faculty>
+    <University>&apos;University of Calgary&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>198</CourseID>
+    <Department>&apos;Computer Science&apos;</Department>
+    <Faculty>&apos;Business&apos;</Faculty>
+    <University>&apos;MacEwan University&apos;</University>
+  </Course>
+  <Course>
+    <CourseID>199</CourseID>
+    <Department> &apos;Political Science&apos;</Department>
+    <Faculty>&apos;Science&apos;</Faculty>
+    <University>&apos;Mount Royal University&apos;</University>
+  </Course>
+</Courses>
