@@ -1,6 +1,6 @@
 # 📄 XML Upload Web App
 
-![App Screenshot](images/XMLUpload.jpeg)
+![App Screenshot](images/XMLUpload.jpg)
 
 ## Overview
 A sleek, lightweight web application built in Visual Studio using C# that lets users upload and process XML files through a simple form interface. Ideal for fast data ingestion and easy backend parsing.
@@ -18,7 +18,7 @@ A sleek, lightweight web application built in Visual Studio using C# that lets u
 
 ## 📐 Entity-Relationship Diagram
 
-![ER Diagram](images/ERDiagram.jpeg)
+![ER Diagram](images/ERDiagram.jpg)
 
 ---
 
