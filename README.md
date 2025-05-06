@@ -1,9 +1,9 @@
-# 📄 XML Upload Web App
+# 📄 XML Upload Desktop App
 
 ![App Screenshot](images/XMLUpload.jpg)
 
 ## Overview
-A sleek, lightweight web application built in Visual Studio using C# that lets users upload and process XML files through a simple form interface. Ideal for fast data ingestion and easy backend parsing.
+A UI implemented, lightweight desktop application with an SQL backend, built in Visual Studio using C# that lets users upload and process XML files through a simple form interface. Ideal for fast data ingestion and easy backend parsing.
 
 ---
 
@@ -37,7 +37,8 @@ A sleek, lightweight web application built in Visual Studio using C# that lets u
 
 ## 🧠 Tech Stack
 
-- ASP.NET Web Forms (C#)
+- C#
+- Microsoft SQL Server
 - Visual Studio 2022+
 
 ---
